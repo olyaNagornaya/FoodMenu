@@ -1,4 +1,7 @@
 # FoodMenu
 Разработка сайта меню еды
 
-<img width="1480" alt="food" src="https://user-images.githubusercontent.com/87146188/135321168-64d8b4b9-b8f0-456a-b62b-229423cfd27e.png">
+
+![food](https://user-images.githubusercontent.com/87146188/135321541-99366173-9a6e-4044-9047-ff9da45ac9df.jpg)
+
+Запуск проекта!
