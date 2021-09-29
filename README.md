@@ -1,4 +1,4 @@
 # FoodMenu
 Разработка сайта меню еды
 
-![Food](https://github.com/olyaNagornaya/FoodMenu/tree/main/img/screen/screenfood.png?raw=true)
+<img src="./img/screen/screnfood.png" width="1450" title="Food">
